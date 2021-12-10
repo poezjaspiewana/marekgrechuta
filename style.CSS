@@ -1,0 +1,19 @@
+body
+{
+	background-color: gray;	
+	font-family: Verdana;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{
+	font-size: 48px;
+	color: red !important;
+}
+
+<hr>
+<p>opacity: 0.7;</p>
+<div class="bg">
+<div style="background-color: #ccc; opacity: 0.7;">some text </div>
+</div>
